@@ -27,7 +27,7 @@ body {
   margin-left: auto;
 }
 
-.nav_list {
+.nav__list {
   display: flex;
   font-size: 12px;
   padding: 0;
@@ -46,7 +46,7 @@ body {
   margin-left: 0;
 }
 
-.nav_list .nav__item a {
+.nav__list .nav__item a {
   text-decoration: none;
   color: #000;
   height: 60px;
